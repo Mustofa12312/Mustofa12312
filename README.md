@@ -24,3 +24,57 @@
 | . ` ||  __|    | |  | . ` | 
 | |\  || |____  _| |_ | |\  | 
 |_| \_||______||_____||_| \_| 
+
+
+---
+
+# 🚀 **Tech Stack**
+<div align="center">
+
+| Category | Tools |
+|---------|-------|
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,express" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /> |
+
+</div>
+
+---
+
+# 🔥 **GitHub Stats (Neon Style)**
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00F0FF&title_color=00F0FF" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=neon-palenight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🌌 **Neon Contribution Graph**
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+---
+
+# 🛠️ **Featured Projects**
+### 🌟 **Project Neon UI**
+> Interface glowing with futuristic neon design  
+🔗 Demo: _link here_
+
+### ⚡ **AI Chat App**
+> Realtime messaging powered by AI backend  
+🔗 Repo: _link here_
+
+### 💾 **Mini SaaS Platform**
+> Authentication, billing, dashboard & more  
+🔗 Repo: _link here_
+
+---
+
+# 🎧 **Current Mood**
