@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=kalo&color=auto&height=250&section=header&text=MUSTOFA&fontSize=90&animation=fadeIn&fontAlignY=40&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/render?type=kalo&color=00f2ff&height=250&section=header&text=MUSTOFA&fontSize=90&animation=fadeIn&fontAlignY=40&theme=tokyonight" />
 
   ### ⚡ **Full-Stack Developer | Visual Storyteller | Tech Analyst** ⚡
   
@@ -8,9 +8,9 @@
   </p>
 
   <p align="center">
-    <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://instagram.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
 
@@ -23,7 +23,7 @@
     <td width="50%" valign="top">
       
       ### 🧬 **Identity Matrix**
-      - 🔭 **Current:** Full-Stack & Cloud Architecture
+      - 🔭 **Focus:** Full-Stack & Cloud Architecture
       - ✍️ **Research:** "Kobhung" Anthropology Project
       - ♟️ **Intellect:** Competitive Chess Player
       - 🦾 **Physical:** Home Fitness Enthusiast
@@ -43,7 +43,10 @@
 
 ---
 
-## 📊 **GitHub Real-Time Metrics**
+## 📈 **Contribution Activity**
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&area=true&hide_border=true&border_radius=10" />
+</p>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
@@ -59,7 +62,7 @@
 ## 🎬 **Creative Vision**
 > *"Code is the logic that builds the world; visuals are the light that makes it worth seeing."*
 
-Sebagai developer berusia 27 tahun yang terus bertumbuh, saya menggabungkan ketelitian **Coding** dengan estetika **Cinematic**. Saya percaya bahwa teknologi terbaik adalah yang mampu memecahkan masalah sekaligus memberikan pengalaman visual yang memukau.
+Sebagai developer berusia 27 tahun, saya menggabungkan ketelitian **Coding** dengan estetika **Cinematic**. Saya percaya bahwa teknologi terbaik adalah yang mampu memecahkan masalah sekaligus memberikan pengalaman visual yang memukau.
 
 ---
 
@@ -69,5 +72,5 @@ Sebagai developer berusia 27 tahun yang terus bertumbuh, saya menggabungkan kete
   <br />
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00f2ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   <br />
-  <sub>Last System Sync: February 2026 • Stay Hungry, Stay Foolish</sub>
+  <sub>Last System Sync: February 2026 • Powered by Curiosity</sub>
 </div>
