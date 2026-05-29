@@ -1,14 +1,51 @@
-<!-- HERO -->
+<!-- ===== HERO ===== -->
 <div align="center">
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Mustofa&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=21&pause=1200&color=60A5FA&center=true&vCenter=true&width=800&lines=Developer+%7C+Problem+Solver+%7C+Tech+Explorer;Building+modern+digital+solutions;Learning+by+doing+%F0%9F%9A%80;AI+%26+Automation+Enthusiast" />
-  
+
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=21&pause=1200&color=60A5FA&center=true&vCenter=true&width=900&lines=Developer+%7C+Problem+Solver+%7C+Tech+Explorer;Building+modern+digital+solutions;Learning+by+doing+%F0%9F%9A%80;AI+%26+Automation+Enthusiast" />
+
   <p>
     <img src="https://img.shields.io/badge/Developer-0f172a?style=for-the-badge&logo=codeforces&logoColor=white" />
     <img src="https://img.shields.io/badge/Builder-2563eb?style=for-the-badge&logo=stackshare&logoColor=white" />
     <img src="https://img.shields.io/badge/Explorer-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </p>
+
+</div>
+
+---
+
+## 👋 About Me
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### Who I Am
+Saya adalah developer yang percaya pada **learning by doing**.  
+Saya suka membangun solusi nyata, mencoba teknologi baru, dan mengubah ide menjadi produk yang berguna.
+
+- Fokus pada pengembangan aplikasi modern
+- Suka problem solving dan automation
+- Tertarik pada AI, workflow, dan scalable systems
+- Belajar lewat proyek dan eksperimen langsung
+
+    </td>
+    <td width="50%" valign="top">
+
+### Current Vision
+- Menguasai JavaScript / TypeScript ecosystem
+- Membangun project yang punya dampak nyata
+- Menggabungkan AI ke dalam workflow
+- Memahami arsitektur aplikasi dan deployment
+- Jadi developer yang bukan cuma nulis kode, tapi juga membangun solusi
+
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
@@ -28,7 +65,7 @@
     <td align="center" width="25%">
       <h3>⚡ Coding</h3>
       <p>Hands-on Practice</p>
-      <p>Project Based Learning</p>
+      <p>Project-Based Learning</p>
       <p>Continuous Growth</p>
     </td>
     <td align="center" width="25%">
@@ -50,33 +87,54 @@
 
 ---
 
-## 👋 About Me
+## 📈 Contribution Dashboard
 
 <div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mustofa12312&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
+
 <table>
   <tr>
-    <td width="50%" valign="top">
-
-### Developer in Growth
-Saya adalah developer yang percaya pada **learning by doing**.  
-Saya suka membangun solusi nyata, mencoba teknologi baru, dan mengubah ide menjadi produk yang berguna.
-
-- Fokus pada aplikasi modern
-- Suka problem solving dan automation
-- Tertarik pada AI, workflow, dan sistem scalable
-- Belajar lewat proyek dan eksperimen langsung
-
+    <td align="center" width="33%">
+      <h3>🟩 Contributions</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=Mustofa12312&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=github" />
     </td>
-    <td width="50%" valign="top">
+    <td align="center" width="33%">
+      <h3>🔥 Streak</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustofa12312&theme=tokyonight&hide_border=true" />
+    </td>
+    <td align="center" width="33%">
+      <h3>🧠 Top Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustofa12312&theme=tokyonight&layout=compact&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-### Current Vision
-- Menguasai JavaScript / TypeScript ecosystem
-- Membangun project yang punya dampak nyata
-- Menggabungkan AI ke dalam workflow
-- Memahami arsitektur aplikasi dan deployment
-- Jadi developer yang bukan cuma nulis kode, tapi juga membangun solusi
+</div>
 
+---
+
+## ⚙️ Activity Breakdown
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mustofa12312&theme=tokyonight" width="100%" />
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mustofa12312&theme=tokyonight" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mustofa12312&theme=tokyonight" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mustofa12312&theme=tokyonight" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mustofa12312&theme=tokyonight&utcOffset=7" />
     </td>
   </tr>
 </table>
@@ -104,44 +162,12 @@ Saya suka membangun solusi nyata, mencoba teknologi baru, dan mengubah ide menja
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools
+### Tools & Platform
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-0EA5E9?style=for-the-badge)
 ![AI Tools](https://img.shields.io/badge/AI%20Tools-FF6B6B?style=for-the-badge)
 
-</div>
-
----
-
-## 📈 Coding & Git Activity
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <h3>⌨️ Coding Time</h3>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true" />
-      <p>Aktivitas ngoding harian dan total waktu coding</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>🔁 Git Push / Commits</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustofa12312&theme=tokyonight&hide_border=true" />
-      <p>Konsistensi kontribusi dan aktivitas Git</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=Mustofa12312&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=github" />
-      <p>Ringkasan performa repositori dan kontribusi</p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustofa12312&theme=tokyonight&layout=compact&hide_border=true" />
 </div>
 
 ---
@@ -152,24 +178,24 @@ Saya suka membangun solusi nyata, mencoba teknologi baru, dan mengubah ide menja
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>📚 digital_library</h3>
-      <p>JavaScript project untuk manajemen perpustakaan digital.</p>
+      <p>Project JavaScript untuk manajemen perpustakaan digital.</p>
       <a href="https://github.com/Mustofa12312/digital_library">View Repository</a>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>💰 catatan_keuangan</h3>
       <p>Aplikasi pencatatan keuangan berbasis Dart untuk tracking finansial.</p>
       <a href="https://github.com/Mustofa12312/catatan_keuangan">View Repository</a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>📦 data_uang_mdr</h3>
       <p>Sistem pengelolaan data dengan JavaScript.</p>
       <a href="https://github.com/Mustofa12312/data_uang_mdr">View Repository</a>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🏫 aplikasi_pondok_administrasi</h3>
       <p>Sistem administrasi untuk kebutuhan operasional pondok.</p>
       <a href="https://github.com/Mustofa12312/aplikasi_pondok_administrasi">View Repository</a>
@@ -187,21 +213,21 @@ Saya suka membangun solusi nyata, mencoba teknologi baru, dan mengubah ide menja
 
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <h4>⚛️ Advanced React</h4>
       <p>Optimization, reusable patterns, and clean component design.</p>
     </td>
-    <td>
+    <td width="50%">
       <h4>🌐 Full-Stack Architecture</h4>
       <p>API structure, data flow, and scalable application design.</p>
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="50%">
       <h4>🤖 AI Integration</h4>
       <p>Using AI to improve workflows and productivity.</p>
     </td>
-    <td>
+    <td width="50%">
       <h4>☁️ Deployment & DevOps</h4>
       <p>Cloud basics, CI/CD, and production-ready thinking.</p>
     </td>
@@ -243,6 +269,9 @@ Terus berkembang.**
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer" />
-  <p><b>Made with ❤️ by Mustofa</b></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer" />
+
+<p><b>Made with ❤️ by Mustofa</b></p>
+
 </div>
