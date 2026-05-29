@@ -1,11 +1,14 @@
 <!-- =========================
-     HERO
+  INTRO / HEADER
 ========================== -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=230&section=header&text=Mustofa&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=34" />
-
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1200&color=93C5FD&center=true&vCenter=true&width=900&lines=Developer+%7C+Problem+Solver+%7C+Tech+Explorer;Building+modern+digital+solutions;Learning+by+doing+%F0%9F%9A%80;AI+%26+Automation+Enthusiast;Flutter+%26+Dart+Builder" />
+  <h1 style="margin-bottom: 6px;">Mustofa</h1>
+  <p><b>Developer • Problem Solver • Tech Explorer</b></p>
+  <p>
+    Building modern digital solutions, learning by doing,
+    and exploring AI, automation, Flutter, and scalable systems.
+  </p>
 
   <p>
     <img src="https://img.shields.io/badge/Developer-0f172a?style=for-the-badge&logo=codeforces&logoColor=white" />
@@ -19,13 +22,11 @@
 
 ---
 
-## ✨ About Me
-
-<div align="center">
+## 👋 About Me
 
 <table>
   <tr>
-    <td width="50%" valign="top" style="padding:18px; border-radius:18px;">
+    <td width="50%" valign="top">
 
 ### Who I Am
 Saya adalah developer yang percaya pada **learning by doing**.  
@@ -37,7 +38,7 @@ Saya suka membangun solusi nyata, mencoba teknologi baru, dan mengubah ide menja
 - Belajar lewat proyek dan eksperimen langsung
 
     </td>
-    <td width="50%" valign="top" style="padding:18px; border-radius:18px;">
+    <td width="50%" valign="top">
 
 ### Current Vision
 - Menguasai JavaScript / TypeScript ecosystem
@@ -50,13 +51,9 @@ Saya suka membangun solusi nyata, mencoba teknologi baru, dan mengubah ide menja
   </tr>
 </table>
 
-</div>
-
 ---
 
-## 📊 Premium Dashboard
-
-<div align="center">
+## 📊 Dashboard
 
 <table>
   <tr>
@@ -87,69 +84,76 @@ Saya suka membangun solusi nyata, mencoba teknologi baru, dan mengubah ide menja
   </tr>
 </table>
 
-</div>
-
 ---
 
 ## 📈 Contribution Dashboard
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+
+### 🟩 Contributions
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mustofa12312&theme=tokyonight" width="100%" alt="Contribution Overview" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mustofa12312&theme=tokyonight" width="100%" alt="GitHub Stats Summary" />
+
+    </td>
+    <td width="33%" align="center" valign="top">
+
+### 🔥 Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustofa12312&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+
+    </td>
+    <td width="33%" align="center" valign="top">
+
+### 🧠 Top Languages
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mustofa12312&theme=tokyonight" width="100%" alt="Top Languages by Repo" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mustofa12312&theme=tokyonight" width="100%" alt="Top Languages by Commit" />
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📉 Activity Graph
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mustofa12312&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🟩 Contributions</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=Mustofa12312&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=github" />
-    </td>
-    <td align="center" width="33%">
-      <h3>🔥 Streak</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustofa12312&theme=tokyonight&hide_border=true" />
-    </td>
-    <td align="center" width="33%">
-      <h3>🧠 Top Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustofa12312&theme=tokyonight&layout=compact&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
 </div>
 
 ---
 
-## ⚙️ Activity Breakdown
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mustofa12312&theme=tokyonight" width="100%" />
+## 📊 GitHub Stats
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mustofa12312&theme=tokyonight" />
+    <td width="50%" align="center" valign="top">
+
+### GitHub Overview
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mustofa12312&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=github" width="100%" alt="GitHub Stats" />
+
     </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mustofa12312&theme=tokyonight" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mustofa12312&theme=tokyonight" />
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mustofa12312&theme=tokyonight&utcOffset=7" />
+    <td width="50%" align="center" valign="top">
+
+### Top Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustofa12312&theme=tokyonight&layout=compact&hide_border=true" width="100%" alt="Top Languages" />
+
     </td>
   </tr>
 </table>
-
-</div>
 
 ---
 
 ## 🧰 Tech Stack
-
-<div align="center">
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -174,13 +178,9 @@ Saya suka membangun solusi nyata, mencoba teknologi baru, dan mengubah ide menja
 ![REST API](https://img.shields.io/badge/REST%20API-0EA5E9?style=for-the-badge)
 ![AI Tools](https://img.shields.io/badge/AI%20Tools-FF6B6B?style=for-the-badge)
 
-</div>
-
 ---
 
 ## 🏗️ Featured Projects
-
-<div align="center">
 
 <table>
   <tr>
@@ -209,13 +209,9 @@ Saya suka membangun solusi nyata, mencoba teknologi baru, dan mengubah ide menja
   </tr>
 </table>
 
-</div>
-
 ---
 
 ## 🔭 Currently Exploring
-
-<div align="center">
 
 <table>
   <tr>
@@ -239,8 +235,6 @@ Saya suka membangun solusi nyata, mencoba teknologi baru, dan mengubah ide menja
     </td>
   </tr>
 </table>
-
-</div>
 
 ---
 
@@ -269,15 +263,5 @@ Saya suka membangun solusi nyata, mencoba teknologi baru, dan mengubah ide menja
 **Fokus pada action, bukan hanya plan.  
 Belajar dengan melakukan.  
 Terus berkembang.**
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer" />
-
-<p><b>Made with ❤️ by Mustofa</b></p>
 
 </div>
