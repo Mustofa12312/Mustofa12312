@@ -1,48 +1,14 @@
 <!-- HERO -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1d4ed8&height=220&section=header&text=Mustofa&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Mustofa&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
   
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1200&color=60A5FA&center=true&vCenter=true&width=700&lines=Developer+%7C+Problem+Solver+%7C+Tech+Explorer;Building+modern+digital+solutions;Learning+by+doing+%F0%9F%9A%80;AI+%26+Automation+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=21&pause=1200&color=60A5FA&center=true&vCenter=true&width=800&lines=Developer+%7C+Problem+Solver+%7C+Tech+Explorer;Building+modern+digital+solutions;Learning+by+doing+%F0%9F%9A%80;AI+%26+Automation+Enthusiast" />
   
   <p>
     <img src="https://img.shields.io/badge/Developer-0f172a?style=for-the-badge&logo=codeforces&logoColor=white" />
-    <img src="https://img.shields.io/badge/Builder-1d4ed8?style=for-the-badge&logo=stackshare&logoColor=white" />
+    <img src="https://img.shields.io/badge/Builder-2563eb?style=for-the-badge&logo=stackshare&logoColor=white" />
     <img src="https://img.shields.io/badge/Explorer-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </p>
-</div>
-
----
-
-## ✨ Overview
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 👋 About Me
-Saya adalah developer yang suka membangun solusi nyata, belajar lewat proyek, dan terus mengeksplorasi teknologi baru.
-
-- Fokus pada pengembangan aplikasi modern
-- Suka problem solving dan automation
-- Tertarik pada AI, workflow, dan sistem yang scalable
-- Belajar dengan pendekatan hands-on
-
-    </td>
-    <td width="50%" valign="top">
-
-### 🎯 Current Mission
-- Master JavaScript / TypeScript ecosystem
-- Build useful and impactful projects
-- Explore AI integration in workflows
-- Improve architecture & scalability thinking
-- Turn ideas into real products
-
-    </td>
-  </tr>
-</table>
-
 </div>
 
 ---
@@ -53,23 +19,64 @@ Saya adalah developer yang suka membangun solusi nyata, belajar lewat proyek, da
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <h3>🚀 Focus</h3>
+    <td align="center" width="25%">
+      <h3>🧠 Focus</h3>
       <p>Modern App Development</p>
       <p>Problem Solving</p>
-      <p>AI Productivity Tools</p>
+      <p>AI Productivity</p>
     </td>
-    <td align="center" width="33%">
-      <h3>🧠 Learning</h3>
-      <p>Advanced React Patterns</p>
-      <p>Full-Stack Architecture</p>
-      <p>Cloud & DevOps Basics</p>
+    <td align="center" width="25%">
+      <h3>⚡ Coding</h3>
+      <p>Hands-on Practice</p>
+      <p>Project Based Learning</p>
+      <p>Continuous Growth</p>
     </td>
-    <td align="center" width="33%">
-      <h3>⚙️ Building</h3>
+    <td align="center" width="25%">
+      <h3>🚀 Git Push</h3>
+      <p>Consistent Delivery</p>
+      <p>Feature Updates</p>
+      <p>Clean Iteration</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>🤖 Interest</h3>
+      <p>AI Integration</p>
       <p>Automation Workflows</p>
       <p>Scalable Systems</p>
-      <p>Real-world Solutions</p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 👋 About Me
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### Developer in Growth
+Saya adalah developer yang percaya pada **learning by doing**.  
+Saya suka membangun solusi nyata, mencoba teknologi baru, dan mengubah ide menjadi produk yang berguna.
+
+- Fokus pada aplikasi modern
+- Suka problem solving dan automation
+- Tertarik pada AI, workflow, dan sistem scalable
+- Belajar lewat proyek dan eksperimen langsung
+
+    </td>
+    <td width="50%" valign="top">
+
+### Current Vision
+- Menguasai JavaScript / TypeScript ecosystem
+- Membangun project yang punya dampak nyata
+- Menggabungkan AI ke dalam workflow
+- Memahami arsitektur aplikasi dan deployment
+- Jadi developer yang bukan cuma nulis kode, tapi juga membangun solusi
+
     </td>
   </tr>
 </table>
@@ -100,9 +107,41 @@ Saya adalah developer yang suka membangun solusi nyata, belajar lewat proyek, da
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-0F766E?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-0EA5E9?style=for-the-badge)
 ![AI Tools](https://img.shields.io/badge/AI%20Tools-FF6B6B?style=for-the-badge)
 
+</div>
+
+---
+
+## 📈 Coding & Git Activity
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>⌨️ Coding Time</h3>
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true" />
+      <p>Aktivitas ngoding harian dan total waktu coding</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🔁 Git Push / Commits</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustofa12312&theme=tokyonight&hide_border=true" />
+      <p>Konsistensi kontribusi dan aktivitas Git</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>📊 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=Mustofa12312&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=github" />
+      <p>Ringkasan performa repositori dan kontribusi</p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustofa12312&theme=tokyonight&layout=compact&hide_border=true" />
 </div>
 
 ---
@@ -115,7 +154,7 @@ Saya adalah developer yang suka membangun solusi nyata, belajar lewat proyek, da
   <tr>
     <td width="50%">
       <h3>📚 digital_library</h3>
-      <p>Project JavaScript untuk manajemen perpustakaan digital.</p>
+      <p>JavaScript project untuk manajemen perpustakaan digital.</p>
       <a href="https://github.com/Mustofa12312/digital_library">View Repository</a>
     </td>
     <td width="50%">
@@ -142,24 +181,7 @@ Saya adalah developer yang suka membangun solusi nyata, belajar lewat proyek, da
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mustofa12312&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=github" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustofa12312&theme=tokyonight&layout=compact&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustofa12312&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🔭 What I'm Exploring
+## 🔭 Currently Exploring
 
 <div align="center">
 
@@ -167,21 +189,21 @@ Saya adalah developer yang suka membangun solusi nyata, belajar lewat proyek, da
   <tr>
     <td>
       <h4>⚛️ Advanced React</h4>
-      <p>Optimization, patterns, reusable architecture.</p>
+      <p>Optimization, reusable patterns, and clean component design.</p>
     </td>
     <td>
-      <h4>🌐 Full-Stack Design</h4>
-      <p>API structure, data flow, and scalable systems.</p>
+      <h4>🌐 Full-Stack Architecture</h4>
+      <p>API structure, data flow, and scalable application design.</p>
     </td>
   </tr>
   <tr>
     <td>
       <h4>🤖 AI Integration</h4>
-      <p>AI-powered workflows and productivity automation.</p>
+      <p>Using AI to improve workflows and productivity.</p>
     </td>
     <td>
-      <h4>☁️ Deployment</h4>
-      <p>Cloud basics, CI/CD, and production readiness.</p>
+      <h4>☁️ Deployment & DevOps</h4>
+      <p>Cloud basics, CI/CD, and production-ready thinking.</p>
     </td>
   </tr>
 </table>
@@ -190,7 +212,7 @@ Saya adalah developer yang suka membangun solusi nyata, belajar lewat proyek, da
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -221,9 +243,6 @@ Terus berkembang.**
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,100:0f172a&height=120&section=footer" />
-
-<p><b>Made with ❤️ by Mustofa</b></p>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer" />
+  <p><b>Made with ❤️ by Mustofa</b></p>
 </div>
