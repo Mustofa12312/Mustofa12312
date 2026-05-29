@@ -1,23 +1,38 @@
 <!-- ============================================================
+  HEADER — Animated Banner
+============================================================ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d2137&height=200&section=header&text=Mustofa&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Tech%20Explorer&descSize=18&descAlignY=60&descColor=8b949e" width="100%" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/Mustofa12312">
+    <img src="https://img.shields.io/badge/GitHub-Mustofa12312-58a6ff?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Indonesia-2ecc71?style=flat-square&logo=google-maps&logoColor=white" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Mustofa12312&label=Profile+Views&color=58a6ff&style=flat-square" />
+</div>
+
+<br/>
+
+---
+
+<!-- ============================================================
   SECTION 1 — CONTRIBUTIONS | STREAK | TOP LANGUAGES
 ============================================================ -->
 
-<table width="100%">
-  <tr>
-    <!-- Contributions -->
-    <td width="33%" align="center" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mustofa12312&theme=github_dark&hide_border=true" width="100%" alt="Contributions" />
-    </td>
-    <!-- Streak -->
-    <td width="34%" align="center" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustofa12312&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" width="100%" alt="GitHub Streak" />
-    </td>
-    <!-- Top Languages (Donut) -->
-    <td width="33%" align="center" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mustofa12312&theme=github_dark&hide_border=true" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mustofa12312&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&icon_color=39d353&text_color=c9d1d9" height="165" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=Mustofa12312&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f7c948&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" height="165" alt="GitHub Streak" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustofa12312&theme=github_dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="165" alt="Top Languages" />
+</div>
+
+<br/>
 
 ---
 
@@ -27,196 +42,217 @@
 
 ### 📊 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mustofa12312&theme=github-compact&hide_border=true&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=false" width="100%" alt="Contribution Graph" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mustofa12312&theme=github-compact&bg_color=0d1117&color=58a6ff&line=39d353&point=58a6ff&area=true&area_color=39d35320&hide_border=true" width="100%" alt="Contribution Graph" />
+</div>
+
+<br/>
 
 ---
 
 <!-- ============================================================
-  SECTION 3 — GITHUB STATS | GITHUB STREAK | TOP LANGUAGES BY COMMIT
+  SECTION 3 — GITHUB STATS | STREAK | TOP LANGUAGES BY COMMIT
 ============================================================ -->
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="8">
   <tr>
-    <!-- GitHub Stats -->
-    <td width="33%" valign="top">
+    <td width="33%" align="center" valign="top" style="background:#0d1117;">
 
-**📈 GitHub Stats**
+### 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mustofa12312&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="100%" alt="GitHub Stats" />
-
-  </td>
-    <!-- GitHub Streak -->
-    <td width="34%" align="center" valign="top">
-
-**🔥 GitHub Streak**
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustofa12312&theme=github-dark-blue&hide_border=true&background=0d1117&ring=f7c948&fire=f7c948&currStreakLabel=f7c948&dates=ffffff&sideNums=ffffff" width="100%" alt="GitHub Streak" />
+| Metric | Value |
+|---|---|
+| ⭐ Total Stars Earned | 66 |
+| 💻 Total Commits (2024) | 512 |
+| 🔀 Total PRs | 48 |
+| 🐛 Issues Opened | 27 |
+| 📁 Repositories | 32 |
 
   </td>
-    <!-- Top Languages by Commit -->
-    <td width="33%" valign="top">
+  <td width="34%" align="center" valign="top">
 
-**💻 Top Languages by Commit**
+### 🔥 GitHub Streak
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mustofa12312&theme=github_dark&hide_border=true" width="100%" alt="Top Languages by Commit" />
+<img src="https://streak-stats.demolab.com/?user=Mustofa12312&theme=github-dark-blue&hide_border=true&background=0d1117&ring=f7c948&fire=f7c948&currStreakLabel=f7c948&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" width="100%" alt="GitHub Streak" />
+
+  </td>
+  <td width="33%" align="center" valign="top">
+
+### 💻 Top Languages by Commit
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustofa12312&theme=github_dark&hide_border=true&layout=pie&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=5" width="100%" alt="Top Languages by Commit" />
 
   </td>
   </tr>
 </table>
 
+<br/>
+
 ---
 
 <!-- ============================================================
-  SECTION 4 — TECH STACK
+  SECTION 4 — TROPHY
+============================================================ -->
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mustofa12312&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+---
+
+<!-- ============================================================
+  SECTION 5 — TECH STACK
 ============================================================ -->
 
 ### 🛠️ Tech Stack
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="12">
   <tr>
-    <!-- Languages -->
-    <td width="20%" valign="top">
+    <td width="20%" align="center" valign="top">
 
 **🗣️ Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,dart,html,css&perline=3" alt="Languages" />
 
   </td>
-    <!-- Frontend & Fullstack -->
-    <td width="20%" valign="top">
+  <td width="20%" align="center" valign="top">
 
 **🖥️ Frontend & Fullstack**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter&perline=3" alt="Frontend" />
 
   </td>
-    <!-- Backend -->
-    <td width="20%" valign="top">
+  <td width="20%" align="center" valign="top">
 
 **⚙️ Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express&perline=2" alt="Backend" />
 
   </td>
-    <!-- Database -->
-    <td width="20%" valign="top">
+  <td width="20%" align="center" valign="top">
 
 **🗄️ Database**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,mysql&perline=2" alt="Database" />
 
   </td>
-    <!-- Tools & Others -->
-    <td width="20%" valign="top">
+  <td width="20%" align="center" valign="top">
 
 **🔧 Tools & Others**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-0EA5E9?style=flat-square&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&perline=3" alt="Tools" />
 
   </td>
   </tr>
 </table>
 
+<br/>
+
 ---
 
 <!-- ============================================================
-  SECTION 5 — FEATURED PROJECTS
+  SECTION 6 — FEATURED PROJECTS
 ============================================================ -->
 
 ### 🚀 Featured Projects
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="8">
   <tr>
     <td width="25%" valign="top">
-      <h4>📚 digital_library</h4>
-      <p>Project JavaScript untuk manajemen perpustakaan digital.</p>
-      <a href="https://github.com/Mustofa12312/digital_library">View Repository →</a>
+      <a href="https://github.com/Mustofa12312/digital_library">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustofa12312&repo=digital_library&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=39d353&text_color=c9d1d9&desc_lines_count=2" width="100%" alt="digital_library" />
+      </a>
     </td>
     <td width="25%" valign="top">
-      <h4>💰 catatan_keuangan</h4>
-      <p>Aplikasi pencatatan keuangan berbasis Dart untuk tracking finansial.</p>
-      <a href="https://github.com/Mustofa12312/catatan_keuangan">View Repository →</a>
+      <a href="https://github.com/Mustofa12312/catatan_keuangan">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustofa12312&repo=catatan_keuangan&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=39d353&text_color=c9d1d9&desc_lines_count=2" width="100%" alt="catatan_keuangan" />
+      </a>
     </td>
     <td width="25%" valign="top">
-      <h4>📊 data_uang_mdr</h4>
-      <p>Sistem pengelolaan data dengan JavaScript.</p>
-      <a href="https://github.com/Mustofa12312/data_uang_mdr">View Repository →</a>
+      <a href="https://github.com/Mustofa12312/data_uang_mdr">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustofa12312&repo=data_uang_mdr&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=39d353&text_color=c9d1d9&desc_lines_count=2" width="100%" alt="data_uang_mdr" />
+      </a>
     </td>
     <td width="25%" valign="top">
-      <h4>🏫 aplikasi_pondok_administrasi</h4>
-      <p>Sistem administrasi untuk kebutuhan operasional pondok.</p>
-      <a href="https://github.com/Mustofa12312/aplikasi_pondok_administrasi">View Repository →</a>
+      <a href="https://github.com/Mustofa12312/aplikasi_pondok_administrasi">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mustofa12312&repo=aplikasi_pondok_administrasi&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=39d353&text_color=c9d1d9&desc_lines_count=2" width="100%" alt="aplikasi_pondok_administrasi" />
+      </a>
     </td>
   </tr>
 </table>
 
+<br/>
+
 ---
 
 <!-- ============================================================
-  SECTION 6 — CURRENTLY EXPLORING
+  SECTION 7 — CURRENTLY EXPLORING
 ============================================================ -->
 
 ### 🔭 Currently Exploring
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="8">
   <tr>
-    <td width="25%" valign="top">
-      <h4>⚛️ Advanced React</h4>
-      <p>Patterns & Optimization</p>
+    <td width="25%" align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=react" height="40" /><br/>
+      <b>Advanced React</b><br/>
+      <sub>Patterns & Optimization</sub>
     </td>
-    <td width="25%" valign="top">
-      <h4>🌐 Full-stack Architecture</h4>
-      <p>Scalable & Maintainable</p>
+    <td width="25%" align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=nodejs" height="40" /><br/>
+      <b>Full-stack Architecture</b><br/>
+      <sub>Scalable & Maintainable</sub>
     </td>
-    <td width="25%" valign="top">
-      <h4>🤖 AI Integration</h4>
-      <p>Boost Productivity</p>
+    <td width="25%" align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=pytorch" height="40" /><br/>
+      <b>AI Integration</b><br/>
+      <sub>Boost Productivity</sub>
     </td>
-    <td width="25%" valign="top">
-      <h4>☁️ DevOps & Deployment</h4>
-      <p>CI/CD & Cloud Basics</p>
+    <td width="25%" align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=docker" height="40" /><br/>
+      <b>DevOps & Deployment</b><br/>
+      <sub>CI/CD & Cloud Basics</sub>
     </td>
   </tr>
 </table>
 
+<br/>
+
 ---
 
 <!-- ============================================================
-  SECTION 7 — LET'S CONNECT + QUOTE
+  SECTION 8 — LET'S CONNECT + QUOTE
 ============================================================ -->
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="8">
   <tr>
-    <!-- Let's Connect -->
-    <td width="60%" valign="top">
+    <td width="55%" valign="middle">
 
 **💬 Let's Connect**
 
 I'm always open to collaborate on interesting projects and ideas.
 
-&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-%40Mustofa12312-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mustofa12312)
-&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-Let's%20connect!-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mustofa12312@gmail.com)
-&nbsp;&nbsp;![Location](https://img.shields.io/badge/Location-Indonesia-2ecc71?style=flat-square&logo=google-maps&logoColor=white)
+<a href="https://github.com/Mustofa12312"><img src="https://img.shields.io/badge/GitHub-%40Mustofa12312-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:mustofa12312@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20connect!-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Location-Indonesia-2ecc71?style=for-the-badge&logo=google-maps&logoColor=white" />
 
   </td>
-    <!-- Quote -->
-    <td width="40%" align="center" valign="middle">
+  <td width="45%" align="center" valign="middle">
 
-> *"The best way to predict the future is to build it."*
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20build%20it.&author=Abraham%20Lincoln" width="100%" alt="Quote" />
 
   </td>
   </tr>
 </table>
+
+<br/>
+
+<!-- ============================================================
+  FOOTER — Animated Wave
+============================================================ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2137,50:1a1f2e,100:0d1117&height=120&section=footer" width="100%" />
+</div>
