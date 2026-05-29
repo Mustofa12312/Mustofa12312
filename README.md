@@ -1,27 +1,31 @@
-<!-- ===== HERO ===== -->
+<!-- =========================
+     HERO
+========================== -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Mustofa&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=230&section=header&text=Mustofa&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=34" />
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=21&pause=1200&color=60A5FA&center=true&vCenter=true&width=900&lines=Developer+%7C+Problem+Solver+%7C+Tech+Explorer;Building+modern+digital+solutions;Learning+by+doing+%F0%9F%9A%80;AI+%26+Automation+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1200&color=93C5FD&center=true&vCenter=true&width=900&lines=Developer+%7C+Problem+Solver+%7C+Tech+Explorer;Building+modern+digital+solutions;Learning+by+doing+%F0%9F%9A%80;AI+%26+Automation+Enthusiast;Flutter+%26+Dart+Builder" />
 
   <p>
     <img src="https://img.shields.io/badge/Developer-0f172a?style=for-the-badge&logo=codeforces&logoColor=white" />
-    <img src="https://img.shields.io/badge/Builder-2563eb?style=for-the-badge&logo=stackshare&logoColor=white" />
+    <img src="https://img.shields.io/badge/Builder-1d4ed8?style=for-the-badge&logo=stackshare&logoColor=white" />
     <img src="https://img.shields.io/badge/Explorer-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   </p>
 
 </div>
 
 ---
 
-## 👋 About Me
+## ✨ About Me
 
 <div align="center">
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding:18px; border-radius:18px;">
 
 ### Who I Am
 Saya adalah developer yang percaya pada **learning by doing**.  
@@ -33,7 +37,7 @@ Saya suka membangun solusi nyata, mencoba teknologi baru, dan mengubah ide menja
 - Belajar lewat proyek dan eksperimen langsung
 
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding:18px; border-radius:18px;">
 
 ### Current Vision
 - Menguasai JavaScript / TypeScript ecosystem
@@ -50,7 +54,7 @@ Saya suka membangun solusi nyata, mencoba teknologi baru, dan mengubah ide menja
 
 ---
 
-## 📊 Dashboard
+## 📊 Premium Dashboard
 
 <div align="center">
 
@@ -150,12 +154,14 @@ Saya suka membangun solusi nyata, mencoba teknologi baru, dan mengubah ide menja
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frontend
+### Frontend & Mobile
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
