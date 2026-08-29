@@ -1,112 +1,216 @@
-<!-- HEADER BANNER -->
+<!-- ╔══════════════════════════════════════════════════════════╗
+     ║                     HEADER BANNER                       ║
+     ╚══════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=200&section=header&text=Mustofa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20%26%20Mobile%20Developer%20%7C%20Tech%20Explorer&descSize=18&descAlignY=60&descColor=a0aec0" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=200&section=header&text=Mustofa&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Developer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Tech%20Explorer&descSize=18&descAlignY=58&descColor=a0aec0" width="100%" />
 </div>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Mustofa12312-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mustofa12312)
+[![GitHub](https://img.shields.io/badge/GitHub-%40Mustofa12312-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mustofa12312)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustofa12312@gmail.com)
+![Location](https://img.shields.io/badge/📍_Indonesia-0d1117?style=flat-square)
 &nbsp;
-![Location](https://img.shields.io/badge/Location-Indonesia-0d1117?style=for-the-badge&logo=google-maps&logoColor=red)
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=Mustofa12312&label=Profile%20Views&color=1f6feb&style=for-the-badge)
+![Views](https://komarev.com/ghpvc/?username=Mustofa12312&label=Profile+Views&color=0e75b6&style=flat-square)
 
 </div>
 
 <br/>
 
 ---
+
+<!-- ╔══════════════════════════════════════════════════════════╗
+     ║           SECTION 1 — STATS | STREAK | LANGUAGES        ║
+     ╚══════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mustofa12312&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=39d353&text_color=c9d1d9" height="165" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=Mustofa12312&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f7c948&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" height="165" alt="GitHub Streak" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustofa12312&theme=github_dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="165" alt="Top Languages" />
+</div>
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════╗
+     ║              SECTION 2 — CONTRIBUTION GRAPH             ║
+     ╚══════════════════════════════════════════════════════════╝ -->
+
+### 📊 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mustofa12312&theme=github-compact&bg_color=0d1117&color=58a6ff&line=39d353&point=58a6ff&area=true&area_color=1e3a2f&hide_border=true" width="100%" alt="Contribution Graph" />
+</div>
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════╗
+     ║       SECTION 3 — STATS TABLE | STREAK | LANGUAGES      ║
+     ╚══════════════════════════════════════════════════════════╝ -->
+
+<table width="100%" border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <td width="33%" align="center" valign="top">
+
+### 📈 GitHub Stats
+
+| Metric | Value |
+|:---|---:|
+| ⭐ Total Stars Earned | 66 |
+| 💻 Total Commits | Active |
+| 🔀 Total PRs | 48 |
+| 🐛 Issues Opened | 27 |
+| 📁 Repositories | 32 |
+
+  </td>
+  <td width="34%" align="center" valign="top">
+
+### 🔥 GitHub Streak
+
+<img src="https://streak-stats.demolab.com/?user=Mustofa12312&theme=github-dark-blue&hide_border=true&background=0d1117&ring=f7c948&fire=f7c948&currStreakLabel=f7c948&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" width="100%" alt="GitHub Streak" />
+
+  </td>
+  <td width="33%" align="center" valign="top">
+
+### 💻 Top Languages by Commit
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustofa12312&theme=github_dark&hide_border=true&layout=pie&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=5" width="100%" alt="Top Languages by Commit" />
+
+  </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════╗
+     ║                  SECTION 4 — TROPHY                     ║
+     ╚══════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mustofa12312&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════╗
+     ║                 SECTION 5 — TECH STACK                  ║
+     ╚══════════════════════════════════════════════════════════╝ -->
 
 ### 🛠️ Tech Stack
 
-<div align="center">
+<table width="100%" border="0" cellspacing="0" cellpadding="12">
+  <tr>
+    <td width="20%" align="center" valign="top">
 
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Frontend & Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend & Database** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+**🗣️ Languages**
 
-</div>
+<img src="https://skillicons.dev/icons?i=js,ts,dart,html,css&perline=3" alt="Languages" />
+
+  </td>
+  <td width="20%" align="center" valign="top">
+
+**🖥️ Frontend & Fullstack**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter&perline=3" alt="Frontend & Fullstack" />
+
+  </td>
+  <td width="20%" align="center" valign="top">
+
+**⚙️ Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&perline=2" alt="Backend" />
+
+  </td>
+  <td width="20%" align="center" valign="top">
+
+**🗄️ Database**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql&perline=2" alt="Database" />
+
+  </td>
+  <td width="20%" align="center" valign="top">
+
+**🔧 Tools & Others**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&perline=3" alt="Tools" />
+
+  </td>
+  </tr>
+</table>
 
 <br/>
 
 ---
 
-### 📊 GitHub Activity & Insights
-
-<div align="center">
-  <a href="https://github.com/Mustofa12312">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mustofa12312&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Mustofa12312">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustofa12312&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Mustofa12312">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mustofa12312&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="150" alt="Top Languages" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mustofa12312&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
----
+<!-- ╔══════════════════════════════════════════════════════════╗
+     ║              SECTION 6 — FEATURED PROJECTS              ║
+     ╚══════════════════════════════════════════════════════════╝ -->
 
 ### 🚀 Featured Projects
 
-<table width="100%" border="0" cellspacing="0" cellpadding="8">
+<table width="100%" border="0" cellspacing="0" cellpadding="10">
   <tr>
-    <td width="50%" valign="top">
-      <div align="left">
-        <h4>📚 <a href="https://github.com/Mustofa12312/digital_library">digital_library</a></h4>
-        <p>Sistem manajemen perpustakaan digital berbasis JavaScript untuk katalogisasi dan peminjaman buku.</p>
-        <p>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        </p>
-      </div>
+    <td width="25%" align="center" valign="top">
+      <a href="https://github.com/Mustofa12312/digital_library">
+        <img src="https://img.shields.io/badge/📚_digital__library-JavaScript-F7DF1E?style=for-the-badge&labelColor=161b22&color=1f6feb" width="100%" />
+      </a>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=js" height="36" />
+      <br/><br/>
+      <sub>Project JavaScript untuk manajemen perpustakaan digital.</sub>
+      <br/><br/>
+      <a href="https://github.com/Mustofa12312/digital_library">
+        <img src="https://img.shields.io/badge/View_Repository_→-1f6feb?style=flat-square" />
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <div align="left">
-        <h4>💰 <a href="https://github.com/Mustofa12312/catatan_keuangan">catatan_keuangan</a></h4>
-        <p>Aplikasi pelacak pemasukan dan pengeluaran finansial harian berbasis Dart & Flutter.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        </p>
-      </div>
+    <td width="25%" align="center" valign="top">
+      <a href="https://github.com/Mustofa12312/catatan_keuangan">
+        <img src="https://img.shields.io/badge/💰_catatan__keuangan-Dart-0175C2?style=for-the-badge&labelColor=161b22&color=1f6feb" width="100%" />
+      </a>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=dart" height="36" />
+      <br/><br/>
+      <sub>Aplikasi pencatatan keuangan berbasis Dart untuk tracking finansial.</sub>
+      <br/><br/>
+      <a href="https://github.com/Mustofa12312/catatan_keuangan">
+        <img src="https://img.shields.io/badge/View_Repository_→-1f6feb?style=flat-square" />
+      </a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="left">
-        <h4>📊 <a href="https://github.com/Mustofa12312/data_uang_mdr">data_uang_mdr</a></h4>
-        <p>Platform pengelolaan dan rekap data operasional kas terstruktur.</p>
-        <p>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        </p>
-      </div>
+    <td width="25%" align="center" valign="top">
+      <a href="https://github.com/Mustofa12312/data_uang_mdr">
+        <img src="https://img.shields.io/badge/📊_data__uang__mdr-JavaScript-F7DF1E?style=for-the-badge&labelColor=161b22&color=1f6feb" width="100%" />
+      </a>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=js" height="36" />
+      <br/><br/>
+      <sub>Sistem pengelolaan data uang dengan JavaScript.</sub>
+      <br/><br/>
+      <a href="https://github.com/Mustofa12312/data_uang_mdr">
+        <img src="https://img.shields.io/badge/View_Repository_→-1f6feb?style=flat-square" />
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <div align="left">
-        <h4>🏫 <a href="https://github.com/Mustofa12312/aplikasi_pondok_administrasi">pondok_administrasi</a></h4>
-        <p>Sistem administrasi dan manajemen database santri serta operasional lembaga.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-          <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-        </p>
-      </div>
+    <td width="25%" align="center" valign="top">
+      <a href="https://github.com/Mustofa12312/aplikasi_pondok_administrasi">
+        <img src="https://img.shields.io/badge/🏫_pondok__administrasi-Flutter-02569B?style=for-the-badge&labelColor=161b22&color=1f6feb" width="100%" />
+      </a>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=flutter" height="36" />
+      <br/><br/>
+      <sub>Sistem administrasi untuk kebutuhan operasional pondok.</sub>
+      <br/><br/>
+      <a href="https://github.com/Mustofa12312/aplikasi_pondok_administrasi">
+        <img src="https://img.shields.io/badge/View_Repository_→-1f6feb?style=flat-square" />
+      </a>
     </td>
   </tr>
 </table>
@@ -114,30 +218,34 @@
 <br/>
 
 ---
+
+<!-- ╔══════════════════════════════════════════════════════════╗
+     ║            SECTION 7 — CURRENTLY EXPLORING              ║
+     ╚══════════════════════════════════════════════════════════╝ -->
 
 ### 🔭 Currently Exploring
 
-<table width="100%" border="0" cellspacing="0" cellpadding="8">
+<table width="100%" border="0" cellspacing="0" cellpadding="10">
   <tr>
-    <td width="25%" align="center">
-      <img src="https://skillicons.dev/icons?i=react" height="42" /><br/><br/>
-      <b>Advanced Frontend</b><br/>
-      <sub>State & Architecture</sub>
+    <td width="25%" align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=react" height="40" /><br/><br/>
+      <b>Advanced React</b><br/>
+      <sub>Patterns & Optimization</sub>
     </td>
-    <td width="25%" align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" height="42" /><br/><br/>
-      <b>Backend Systems</b><br/>
-      <sub>REST & Scalability</sub>
+    <td width="25%" align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=nodejs" height="40" /><br/><br/>
+      <b>Full-stack Architecture</b><br/>
+      <sub>Scalable & Maintainable</sub>
     </td>
-    <td width="25%" align="center">
-      <img src="https://skillicons.dev/icons?i=py" height="42" /><br/><br/>
-      <b>AI Integrations</b><br/>
-      <sub>LLM & Automation</sub>
+    <td width="25%" align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=tensorflow" height="40" /><br/><br/>
+      <b>AI Integration</b><br/>
+      <sub>Boost Productivity</sub>
     </td>
-    <td width="25%" align="center">
-      <img src="https://skillicons.dev/icons?i=docker" height="42" /><br/><br/>
-      <b>DevOps Basics</b><br/>
-      <sub>Container & CI/CD</sub>
+    <td width="25%" align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=docker" height="40" /><br/><br/>
+      <b>DevOps & Deployment</b><br/>
+      <sub>CI/CD & Cloud Basics</sub>
     </td>
   </tr>
 </table>
@@ -146,26 +254,40 @@
 
 ---
 
-<table width="100%" border="0" cellspacing="0" cellpadding="8">
+<!-- ╔══════════════════════════════════════════════════════════╗
+     ║           SECTION 8 — LET'S CONNECT + QUOTE             ║
+     ╚══════════════════════════════════════════════════════════╝ -->
+
+<table width="100%" border="0" cellspacing="0" cellpadding="10">
   <tr>
-    <td width="60%" valign="middle">
+    <td width="55%" valign="middle">
 
-### 💬 Let's Connect
+**💬 Let's Connect**
 
-Tertarik untuk berkolaborasi atau mendiskusikan peluang proyek? Hubungi melalui:
+I'm always open to collaborate on interesting projects and ideas.
 
-* **GitHub:** [@Mustofa12312](https://github.com/Mustofa12312)
-* **Email:** [mustofa12312@gmail.com](mailto:mustofa12312@gmail.com)
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-%40Mustofa12312-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mustofa12312)
+[![Email](https://img.shields.io/badge/Email-Let's%20connect!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustofa12312@gmail.com)
+![Location](https://img.shields.io/badge/📍_Indonesia-0d1117?style=for-the-badge)
 
   </td>
-  <td width="40%" align="center" valign="middle">
+  <td width="45%" align="center" valign="middle">
 
-> *"The best way to predict the future is to build it."*
+<br/>
+
+> *"The best way to predict*
+> *the future is to build it."*
 
   </td>
   </tr>
 </table>
 
+<!-- ╔══════════════════════════════════════════════════════════╗
+     ║                    FOOTER WAVE                          ║
+     ╚══════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=100&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=120&section=footer" width="100%" />
 </div>
