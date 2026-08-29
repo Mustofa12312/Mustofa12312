@@ -40,10 +40,10 @@
      ║              SECTION 2 — CONTRIBUTION GRAPH             ║
      ╚══════════════════════════════════════════════════════════╝ -->
 
-### 📊 Contribution Graph
+### 📊 Contribution Calendar & Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mustofa12312&theme=github-compact&bg_color=0d1117&color=58a6ff&line=39d353&point=58a6ff&area=true&area_color=1e3a2f&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/216e39/Mustofa12312" alt="Mustofa's GitHub Contributions Calendar" width="100%" />
 </div>
 
 <br/>
