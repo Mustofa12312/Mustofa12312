@@ -3,16 +3,18 @@
      ╚══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,3,11&height=220&section=header&text=Mustofa&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20%26%20Mobile%20Developer%20%E2%80%A2%20Tech%20Explorer&descSize=19&descAlignY=58&descColor=a0aec0" width="100%" alt="Header Banner" />
+  <h1>Hi 👋, I'm Mustofa</h1>
+  <p><strong>Fullstack & Mobile Developer • Tech Explorer</strong></p>
+  <p><em>Turning ideas into scalable applications and clean code.</em></p>
 </div>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-%40Mustofa12312-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mustofa12312)
+[![GitHub](https://img.shields.io/badge/GitHub-Mustofa12312-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mustofa12312)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustofa12312@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustofa12312@gmail.com)
 &nbsp;
-![Location](https://img.shields.io/badge/Location-Indonesia-0d1117?style=for-the-badge&logo=google-maps&logoColor=ea4335)
+![Location](https://img.shields.io/badge/Location-Indonesia-0d1117?style=for-the-badge&logo=google-maps&logoColor=red)
 &nbsp;
 ![Views](https://komarev.com/ghpvc/?username=Mustofa12312&label=Profile%20Views&color=1f6feb&style=for-the-badge)
 
@@ -29,13 +31,7 @@
 ### 📅 GitHub Contribution Calendar
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/238636/Mustofa12312" alt="GitHub Contribution Calendar" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mustofa12312&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=39d353&point=58a6ff&area=true&area_color=1e3a2f&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/238636/Mustofa12312" alt="Mustofa's GitHub Contribution Calendar" width="100%" />
 </div>
 
 <br/>
@@ -43,31 +39,15 @@
 ---
 
 <!-- ╔══════════════════════════════════════════════════════════╗
-     ║           SECTION 2 — STATS & STREAK OVERVIEW            ║
+     ║           SECTION 2 — STATS & LANGUAGES OVERVIEW         ║
      ╚══════════════════════════════════════════════════════════╝ -->
 
-### 📊 Performance & Coding Streaks
-
-<table width="100%" border="0" cellspacing="0" cellpadding="8">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Mustofa12312&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=39d353&text_color=c9d1d9" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://streak-stats.demolab.com/?user=Mustofa12312&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=f7c948&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" width="100%" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustofa12312&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<br/>
+### 📊 Performance & Insights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mustofa12312&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Mustofa12312&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mustofa12312&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
 </div>
 
 <br/>
@@ -215,12 +195,12 @@
     <td width="25%" align="center" valign="top">
       <img src="https://skillicons.dev/icons?i=py" height="42" /><br/><br/>
       <b>AI & Automation</b><br/>
-      <sub>LLMs & Autonomous Agents</sub>
+      <sub>LLMs & Python Agents</sub>
     </td>
     <td width="25%" align="center" valign="top">
       <img src="https://skillicons.dev/icons?i=docker" height="42" /><br/><br/>
       <b>Cloud & DevOps</b><br/>
-      <sub>CI/CD & Containerization</sub>
+      <sub>CI/CD & Containers</sub>
     </td>
   </tr>
 </table>
@@ -255,11 +235,3 @@ Always open to discussing new software development ideas, collaborating on open-
   </td>
   </tr>
 </table>
-
-<!-- ╔══════════════════════════════════════════════════════════╗
-     ║                    FOOTER WAVE                           ║
-     ╚══════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,3,11&height=120&section=footer" width="100%" />
-</div>
