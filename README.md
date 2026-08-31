@@ -4,21 +4,29 @@
 
 <div align="center">
 
-# Hi 👋, I'm Mustofa
+<h1>Hi 👋, I'm Mustofa</h1>
 
-### Fullstack & Mobile Developer • Tech Explorer
+<p>
+  <strong>Fullstack & Mobile Developer • Tech Explorer</strong>
+</p>
 
-*Turning ideas into scalable applications and clean code.*
+<p>
+  <em>Turning ideas into scalable applications and clean code.</em>
+</p>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Mustofa12312-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Mustofa12312)
- 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mustofa12312@gmail.com)
- 
-![Location](https://img.shields.io/badge/Location-Indonesia-0d1117?style=for-the-badge\&logo=google-maps\&logoColor=red)
- 
-![Profile Views](https://komarev.com/ghpvc/?username=Mustofa12312\&label=Profile%20Views\&color=1f6feb\&style=for-the-badge)
+<a href="https://github.com/Mustofa12312">
+  <img src="https://img.shields.io/badge/GitHub-Mustofa12312-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="mailto:mustofa12312@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Location-Indonesia-0d1117?style=for-the-badge&logo=google-maps&logoColor=red" alt="Indonesia"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Mustofa12312&label=Profile%20Views&color=1f6feb&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -30,7 +38,7 @@
      ║              SECTION 1 — CONTRIBUTION CALENDAR           ║
      ╚══════════════════════════════════════════════════════════╝ -->
 
-## 📅 GitHub Contribution Calendar
+### 📅 GitHub Contribution Calendar
 
 <div align="center">
 
@@ -47,10 +55,10 @@ width="100%"
 ---
 
 <!-- ╔══════════════════════════════════════════════════════════╗
-     ║              SECTION 2 — DAILY CODING ACTIVITY           ║
+     ║           SECTION 2 — DAILY CODING ACTIVITY              ║
      ╚══════════════════════════════════════════════════════════╝ -->
 
-## 💻 Daily Coding Activity
+### 💻 Daily Coding Activity
 
 <div align="center">
 
@@ -87,20 +95,20 @@ alt="Mustofa's GitHub Streak"
      ║           SECTION 3 — STATS & LANGUAGES OVERVIEW         ║
      ╚══════════════════════════════════════════════════════════╝ -->
 
-## 📊 Performance & Insights
+### 📊 Performance & Insights
 
 <div align="center">
 
 <img
 src="https://github-readme-stats-fast.vercel.app/api?username=Mustofa12312&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-alt="Mustofa's GitHub Stats"
+alt="GitHub Stats"
 />
 
   
 
 <img
 src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mustofa12312&theme=tokyonight&hide_border=true&layout=compact&langs_count=6"
-alt="Mustofa's Top Languages"
+alt="Top Languages"
 />
 
 </div>
@@ -113,79 +121,59 @@ alt="Mustofa's Top Languages"
      ║                 SECTION 4 — TECH STACK                   ║
      ╚══════════════════════════════════════════════════════════╝ -->
 
-## 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Skills
 
-<table width="100%" border="0" cellspacing="0" cellpadding="12">
+<table width="100%" border="0" cellspacing="0" cellpadding="10">
+  <tr>
 
-<tr>
-
+```
 <td width="20%" align="center" valign="top">
-
-### 🗣️ Languages
-
-<br/>
-
-<img
-src="https://skillicons.dev/icons?i=js,ts,dart,py,html,css&perline=3"
-alt="Programming Languages"
-/>
-
+  <b>🗣️ Languages</b>
+  <br/><br/>
+  <img
+    src="https://skillicons.dev/icons?i=js,ts,dart,py,html,css&perline=3"
+    alt="Languages"
+  />
 </td>
 
 <td width="20%" align="center" valign="top">
-
-### 📱 Frontend / App
-
-<br/>
-
-<img
-src="https://skillicons.dev/icons?i=flutter,react,nextjs,tailwind&perline=2"
-alt="Frontend Technologies"
-/>
-
+  <b>📱 Frontend / App</b>
+  <br/><br/>
+  <img
+    src="https://skillicons.dev/icons?i=flutter,react,nextjs,tailwind&perline=2"
+    alt="Frontend"
+  />
 </td>
 
 <td width="20%" align="center" valign="top">
-
-### ⚙️ Backend
-
-<br/>
-
-<img
-src="https://skillicons.dev/icons?i=nodejs,express,fastapi&perline=2"
-alt="Backend Technologies"
-/>
-
+  <b>⚙️ Backend</b>
+  <br/><br/>
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,express,fastapi&perline=2"
+    alt="Backend"
+  />
 </td>
 
 <td width="20%" align="center" valign="top">
-
-### 🗄️ Database
-
-<br/>
-
-<img
-src="https://skillicons.dev/icons?i=postgres,mysql,supabase&perline=2"
-alt="Database Technologies"
-/>
-
+  <b>🗄️ Database</b>
+  <br/><br/>
+  <img
+    src="https://skillicons.dev/icons?i=postgres,mysql,supabase&perline=2"
+    alt="Database"
+  />
 </td>
 
 <td width="20%" align="center" valign="top">
-
-### 🔧 Tools
-
-<br/>
-
-<img
-src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker&perline=3"
-alt="Development Tools"
-/>
-
+  <b>🔧 Tools</b>
+  <br/><br/>
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker&perline=3"
+    alt="Tools"
+  />
 </td>
+```
 
-</tr>
-
+  </tr>
 </table>
 
 <br/>
@@ -196,55 +184,52 @@ alt="Development Tools"
      ║              SECTION 5 — FEATURED PROJECTS               ║
      ╚══════════════════════════════════════════════════════════╝ -->
 
-## 🚀 Featured Repositories
+### 🚀 Featured Repositories
 
 <table width="100%" border="0" cellspacing="0" cellpadding="8">
 
-<tr>
+  <tr>
 
+```
 <!-- PROJECT 1 -->
 
 <td width="50%" valign="top">
 
-<table width="100%" border="0" cellspacing="0" cellpadding="8">
+  <table width="100%" border="0" cellspacing="0" cellpadding="6">
+    <tr>
+      <td>
 
-<tr>
+        <a href="https://github.com/Mustofa12312/digital_library">
 
-<td>
+          <img
+            src="https://img.shields.io/badge/📚_digital__library-JavaScript-F7DF1E?style=for-the-badge&labelColor=161b22&color=1f6feb"
+            width="100%"
+            alt="digital_library"
+          />
 
-<a href="https://github.com/Mustofa12312/digital_library">
+        </a>
 
-<img
-src="https://img.shields.io/badge/📚_digital__library-JavaScript-F7DF1E?style=for-the-badge&labelColor=161b22&color=1f6feb"
-width="100%"
-alt="digital_library"
-/>
+        <br/><br/>
 
-</a>
+        <sub>
+          Platform manajemen perpustakaan digital berbasis web
+          untuk katalogisasi dan kontrol peminjaman.
+        </sub>
 
-<br/><br/>
+        <br/><br/>
 
-<sub>
-Platform manajemen perpustakaan digital berbasis web
-untuk katalogisasi dan kontrol peminjaman.
-</sub>
+        <a href="https://github.com/Mustofa12312/digital_library">
 
-<br/><br/>
+          <img
+            src="https://img.shields.io/badge/Explore_Repository_→-1f6feb?style=flat-square"
+            alt="Explore Repository"
+          />
 
-<a href="https://github.com/Mustofa12312/digital_library">
+        </a>
 
-<img
-src="https://img.shields.io/badge/Explore_Repository_→-1f6feb?style=flat-square"
-alt="Explore Repository"
-/>
-
-</a>
-
-</td>
-
-</tr>
-
-</table>
+      </td>
+    </tr>
+  </table>
 
 </td>
 
@@ -252,95 +237,89 @@ alt="Explore Repository"
 
 <td width="50%" valign="top">
 
-<table width="100%" border="0" cellspacing="0" cellpadding="8">
+  <table width="100%" border="0" cellspacing="0" cellpadding="6">
+    <tr>
+      <td>
 
-<tr>
+        <a href="https://github.com/Mustofa12312/catatan_keuangan">
 
-<td>
+          <img
+            src="https://img.shields.io/badge/💰_catatan__keuangan-Dart-0175C2?style=for-the-badge&labelColor=161b22&color=1f6feb"
+            width="100%"
+            alt="catatan_keuangan"
+          />
 
-<a href="https://github.com/Mustofa12312/catatan_keuangan">
+        </a>
 
-<img
-src="https://img.shields.io/badge/💰_catatan__keuangan-Dart-0175C2?style=for-the-badge&labelColor=161b22&color=1f6feb"
-width="100%"
-alt="catatan_keuangan"
-/>
+        <br/><br/>
 
-</a>
+        <sub>
+          Aplikasi mobile tracking finansial harian berbasis
+          Flutter & Dart untuk manajemen cashflow.
+        </sub>
 
-<br/><br/>
+        <br/><br/>
 
-<sub>
-Aplikasi mobile tracking finansial harian berbasis
-Flutter & Dart untuk manajemen cashflow.
-</sub>
+        <a href="https://github.com/Mustofa12312/catatan_keuangan">
 
-<br/><br/>
+          <img
+            src="https://img.shields.io/badge/Explore_Repository_→-1f6feb?style=flat-square"
+            alt="Explore Repository"
+          />
 
-<a href="https://github.com/Mustofa12312/catatan_keuangan">
+        </a>
 
-<img
-src="https://img.shields.io/badge/Explore_Repository_→-1f6feb?style=flat-square"
-alt="Explore Repository"
-/>
-
-</a>
-
-</td>
-
-</tr>
-
-</table>
+      </td>
+    </tr>
+  </table>
 
 </td>
+```
 
-</tr>
+  </tr>
 
-<tr>
+  <tr>
 
+```
 <!-- PROJECT 3 -->
 
 <td width="50%" valign="top">
 
-<table width="100%" border="0" cellspacing="0" cellpadding="8">
+  <table width="100%" border="0" cellspacing="0" cellpadding="6">
+    <tr>
+      <td>
 
-<tr>
+        <a href="https://github.com/Mustofa12312/data_uang_mdr">
 
-<td>
+          <img
+            src="https://img.shields.io/badge/📊_data__uang__mdr-JavaScript-F7DF1E?style=for-the-badge&labelColor=161b22&color=1f6feb"
+            width="100%"
+            alt="data_uang_mdr"
+          />
 
-<a href="https://github.com/Mustofa12312/data_uang_mdr">
+        </a>
 
-<img
-src="https://img.shields.io/badge/📊_data__uang__mdr-JavaScript-F7DF1E?style=for-the-badge&labelColor=161b22&color=1f6feb"
-width="100%"
-alt="data_uang_mdr"
-/>
+        <br/><br/>
 
-</a>
+        <sub>
+          Sistem rekapitulasi data keuangan dan pembukuan
+          terstruktur menggunakan Node.js stack.
+        </sub>
 
-<br/><br/>
+        <br/><br/>
 
-<sub>
-Sistem rekapitulasi data keuangan dan pembukuan
-terstruktur menggunakan Node.js stack.
-</sub>
+        <a href="https://github.com/Mustofa12312/data_uang_mdr">
 
-<br/><br/>
+          <img
+            src="https://img.shields.io/badge/Explore_Repository_→-1f6feb?style=flat-square"
+            alt="Explore Repository"
+          />
 
-<a href="https://github.com/Mustofa12312/data_uang_mdr">
+        </a>
 
-<img
-src="https://img.shields.io/badge/Explore_Repository_→-1f6feb?style=flat-square"
-alt="Explore Repository"
-/>
-
-</a>
-
-</td>
-
-</tr>
-
-</table>
+      </td>
+    </tr>
+  </table>
 
 </td>
 
@@ -348,49 +327,46 @@ alt="Explore Repository"
 
 <td width="50%" valign="top">
 
-<table width="100%" border="0" cellspacing="0" cellpadding="8">
+  <table width="100%" border="0" cellspacing="0" cellpadding="6">
+    <tr>
+      <td>
 
-<tr>
+        <a href="https://github.com/Mustofa12312/aplikasi_pondok_administrasi">
 
-<td>
+          <img
+            src="https://img.shields.io/badge/🏫_pondok__administrasi-Flutter-02569B?style=for-the-badge&labelColor=161b22&color=1f6feb"
+            width="100%"
+            alt="aplikasi_pondok_administrasi"
+          />
 
-<a href="https://github.com/Mustofa12312/aplikasi_pondok_administrasi">
+        </a>
 
-<img
-src="https://img.shields.io/badge/🏫_pondok__administrasi-Flutter-02569B?style=for-the-badge&labelColor=161b22&color=1f6feb"
-width="100%"
-alt="aplikasi_pondok_administrasi"
-/>
+        <br/><br/>
 
-</a>
+        <sub>
+          Sistem administrasi terpadu untuk pendataan santri
+          dan manajemen operasional lembaga.
+        </sub>
 
-<br/><br/>
+        <br/><br/>
 
-<sub>
-Sistem administrasi terpadu untuk pendataan santri
-dan manajemen operasional lembaga.
-</sub>
+        <a href="https://github.com/Mustofa12312/aplikasi_pondok_administrasi">
 
-<br/><br/>
+          <img
+            src="https://img.shields.io/badge/Explore_Repository_→-1f6feb?style=flat-square"
+            alt="Explore Repository"
+          />
 
-<a href="https://github.com/Mustofa12312/aplikasi_pondok_administrasi">
+        </a>
 
-<img
-src="https://img.shields.io/badge/Explore_Repository_→-1f6feb?style=flat-square"
-alt="Explore Repository"
-/>
-
-</a>
-
-</td>
-
-</tr>
-
-</table>
+      </td>
+    </tr>
+  </table>
 
 </td>
+```
 
-</tr>
+  </tr>
 
 </table>
 
@@ -402,85 +378,87 @@ alt="Explore Repository"
      ║            SECTION 6 — CURRENTLY EXPLORING               ║
      ╚══════════════════════════════════════════════════════════╝ -->
 
-## 🔭 Currently Exploring
+### 🔭 Currently Exploring
 
-<table width="100%" border="0" cellspacing="0" cellpadding="12">
+<table width="100%" border="0" cellspacing="0" cellpadding="10">
 
-<tr>
+  <tr>
 
+```
 <td width="25%" align="center" valign="top">
 
-<img
-src="https://skillicons.dev/icons?i=flutter"
-height="42"
-alt="Flutter"
-/>
+  <img
+    src="https://skillicons.dev/icons?i=flutter"
+    height="42"
+    alt="Flutter"
+  />
 
-<br/><br/>
+  <br/><br/>
 
-<b>Cross-Platform</b>
+  <b>Cross-Platform</b>
 
-<br/>
+  <br/>
 
-<sub>Advanced UI & Animations</sub>
+  <sub>Advanced UI & Animations</sub>
 
 </td>
 
 <td width="25%" align="center" valign="top">
 
-<img
-src="https://skillicons.dev/icons?i=nodejs"
-height="42"
-alt="Node.js"
-/>
+  <img
+    src="https://skillicons.dev/icons?i=nodejs"
+    height="42"
+    alt="Node.js"
+  />
 
-<br/><br/>
+  <br/><br/>
 
-<b>Backend & APIs</b>
+  <b>Backend & APIs</b>
 
-<br/>
+  <br/>
 
-<sub>Scalable Microservices</sub>
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-<img
-src="https://skillicons.dev/icons?i=py"
-height="42"
-alt="Python"
-/>
-
-<br/><br/>
-
-<b>AI & Automation</b>
-
-<br/>
-
-<sub>LLMs & Python Agents</sub>
+  <sub>Scalable Microservices</sub>
 
 </td>
 
 <td width="25%" align="center" valign="top">
 
-<img
-src="https://skillicons.dev/icons?i=docker"
-height="42"
-alt="Docker"
-/>
+  <img
+    src="https://skillicons.dev/icons?i=py"
+    height="42"
+    alt="Python"
+  />
 
-<br/><br/>
+  <br/><br/>
 
-<b>Cloud & DevOps</b>
+  <b>AI & Automation</b>
 
-<br/>
+  <br/>
 
-<sub>CI/CD & Containers</sub>
+  <sub>LLMs & Python Agents</sub>
 
 </td>
 
-</tr>
+<td width="25%" align="center" valign="top">
+
+  <img
+    src="https://skillicons.dev/icons?i=docker"
+    height="42"
+    alt="Docker"
+  />
+
+  <br/><br/>
+
+  <b>Cloud & DevOps</b>
+
+  <br/>
+
+  <sub>CI/CD & Containers</sub>
+
+</td>
+```
+
+  </tr>
 
 </table>
 
@@ -489,66 +467,55 @@ alt="Docker"
 ---
 
 <!-- ╔══════════════════════════════════════════════════════════╗
-     ║              SECTION 7 — CODING PHILOSOPHY               ║
+     ║           SECTION 7 — LET'S CONNECT + QUOTE              ║
      ╚══════════════════════════════════════════════════════════╝ -->
 
-## 🧠 Coding Philosophy
+<table width="100%" border="0" cellspacing="0" cellpadding="10">
 
-<div align="center">
+  <tr>
 
-> **"The best way to predict the future is to build it."**
-
-<br/>
-
-<sub>
-Build • Learn • Improve • Repeat
-</sub>
-
-</div>
-
-<br/>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════╗
-     ║           SECTION 8 — LET'S CONNECT + QUOTE              ║
-     ╚══════════════════════════════════════════════════════════╝ -->
-
-## 💬 Let's Connect & Build Together
-
-<table width="100%" border="0" cellspacing="0" cellpadding="12">
-
-<tr>
-
+```
 <td width="60%" valign="middle">
 
-Always open to discussing new software development ideas,
-collaborating on open-source initiatives, or exploring
-creative tech projects.
+  <h3>💬 Let's Connect & Build Together</h3>
 
-<br/><br/>
+  Always open to discussing new software development ideas,
+  collaborating on open-source initiatives, or exploring
+  creative tech projects.
 
-[![GitHub](https://img.shields.io/badge/GitHub-%40Mustofa12312-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Mustofa12312)
+  <br/><br/>
 
-[![Email](https://img.shields.io/badge/Email-Send_Message-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mustofa12312@gmail.com)
+  <a href="https://github.com/Mustofa12312">
+
+    <img
+      src="https://img.shields.io/badge/GitHub-%40Mustofa12312-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+
+  </a>
+
+  <br/><br/>
+
+  <a href="mailto:mustofa12312@gmail.com">
+
+    <img
+      src="https://img.shields.io/badge/Email-Send_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+
+  </a>
 
 </td>
 
 <td width="40%" align="center" valign="middle">
 
-### 🚀 Let's Build Something Great
-
-<br/>
-
-*Code with purpose.*
-
-*Build with passion.*
-
-*Keep learning.*
+  > *"The best way to predict*  
+  > *the future is to build it."*
 
 </td>
+```
 
-</tr>
+  </tr>
 
 </table>
 
@@ -560,6 +527,10 @@ creative tech projects.
 
 ### ⭐ Thanks for visiting my profile!
 
-<sub>Made with ❤️ and lots of code by Mustofa</sub>
+<br/>
+
+<sub>
+Made with ❤️ • Built with code • Always learning
+</sub>
 
 </div>
