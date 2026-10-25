@@ -36,29 +36,7 @@
 
 ---
 
-## 🧑‍💻 About Me
 
-```typescript
-const mustofa = {
-  role: "Fullstack & Mobile Developer",
-  location: "Indonesia 🇮🇩",
-  interests: [
-    "Web Development",
-    "Mobile Applications",
-    "Backend Engineering",
-    "AI & Automation",
-    "Cloud & DevOps"
-  ],
-  technologies: {
-    frontend: ["React", "Next.js", "Tailwind CSS"],
-    mobile: ["Flutter", "Dart"],
-    backend: ["Node.js", "Express", "Python"],
-    databases: ["PostgreSQL", "MySQL", "Supabase"],
-    tools: ["Git", "Docker", "Figma", "Postman"]
-  },
-  mindset: "Learn. Build. Improve. Repeat."
-};
-```
 
 - 🚀 Building web and mobile applications to solve real-world problems.
 - 🛠️ Exploring scalable architectures, clean code, and reliable APIs.
