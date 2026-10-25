@@ -46,19 +46,6 @@
 
 ---
 
-## 🌌 3D Contribution Universe
-
-<div align="center">
-
-<!-- Generate this SVG using the GitHub Actions workflow described below. -->
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub Contribution Graph"/>
-
-*Every contribution is another block in the journey.*
-
-</div>
-
----
 
 ## 📊 GitHub Analytics
 
