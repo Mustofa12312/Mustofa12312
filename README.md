@@ -1,26 +1,38 @@
 # 👋 Hey, I'm Mustofa
 
+
+## 🌌 3D Contribution Universe
+
 <div align="center">
-
-<!-- FUTURISTIC DEVELOPER HEADER -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,40:161B33,100:2563EB&text=MUSTOFA&fontColor=FFFFFF&fontSize=65&fontAlignY=38&desc=Fullstack%20%7C%20Mobile%20%7C%20Tech%20Explorer&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Mustofa Developer Banner"/>
-
-### `Building ideas into reality, one commit at a time.`
-
-*Fullstack & Mobile Developer · Software Engineer in Progress · Tech Explorer*
-
-<br/>
-
-<a href="https://github.com/Mustofa12312">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<a href="mailto:mustofa12312@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=Mustofa12312&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
-
+  <img
+    src="./profile-3d-contrib/profile-night-rainbow.svg"
+    width="100%"
+    alt="3D GitHub Contribution Graph"
+  />
 </div>
+
+---
+
+## 🐍 Contribution Journey
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Mustofa12312/Mustofa12312/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Mustofa12312/Mustofa12312/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Mustofa12312/Mustofa12312/output/github-contribution-grid-snake.svg"
+      width="100%"
+      alt="GitHub Contribution Snake Animation"
+    />
+  </picture>
+</div>
+
 
 ---
 
