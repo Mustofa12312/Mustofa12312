@@ -1,8 +1,4 @@
 # 👋 Hey, I'm Mustofa
-
-
-## 🌌 3D Contribution Universe
-
 <div align="center">
   <img
     src="./profile-3d-contrib/profile-night-rainbow.svg"
